@@ -15,74 +15,49 @@ Pepa Neumann
 
 P.S. Dieses Dokument soll gemeinsam ausgearbeitet werden. Das hier ist kein Frontalunterricht. Wer etwas ergänzt, macht es ordentlich und setzt es hier rein und gibt mir kurz Bescheid. Wer viel macht, macht viel richtig und bekommt ein Eis (Schoko-Vanille).
 
-## Wissen
+## 1. Wissen
 ### Basics Kartenaufnahme
+  [Basishandbuch des Schweizer OL-Verbandes, sehr empfehlenswert](https://www.swiss-orienteering.ch/files/SO_Herstellung_OL-Karten_Web_opt.pdf)
 
-Basishandbuch des Schweizer OL-Verbandes, sehr empfehlenswert:
-https://www.swiss-orienteering.ch/files/SO_Herstellung_OL-Karten_Web_opt.pdf 
+### Zeichennormen:
+https://orienteering.sport/iof/mapping/
 
-#### Zeichennormen:                  https://orienteering.sport/iof/mapping/ 
-                                Es gibt übersetzungen, die helfen auch mal um gewisse
-                                Details zu überdenken.
-                                Im Zweifel ist immer die englische Variante gültig.
+Es gibt übersetzungen, die helfen auch mal um gewisse Details zu überdenken. Im Zweifel ist immer die englische Variante gültig.
+Bei der Sprintnorm ISSprOM gibt es ein sehr hilfreiches pdf mit konkreten Auslegungsbeispielen.
 
-                                  Bei der Sprintnorm ISSprOM gibt es ein sehr hilfreiches pdf
-                                mit konkreten Auslegungsbeispielen.
+Aktuelles Wissen:                  
+[Schweizer OL-Verband Kärtelertagung](https://www.swiss-orienteering.ch/de/bereiche/technik/karten/kaertelertagung.html)
 
-Aktuelles Wissen:                  Schweizer OL-Verband Kärtelertagung  
-        https://www.swiss-orienteering.ch/de/bereiche/technik/karten/kaertelertagung.html 
+### Praxiswissen Kartenaufnahme
 
-
-                (Bild: Lerjen Kartographie)
-#### Praxiswissen Kartenaufnahme
-
-Wichtigste Quelle bleiben die sehr gut geschriebenen Normen ISSOM und ISSprOM
-
-                        https://orienteering.sport/iof/mapping/ 
-
-Davon abgeleitet gibt es ein super O-Wiki mit vielen Beispielen:
-
-                        https://omapwiki.orienteering.sport/#specifications 
-
-High Level Seminare von der IOF.
-                        SEHR hilfreich!
-
-                        https://www.youtube.com/@iofhighleveleventseminar9613/videos 
-
-viele gute Ideen für Trainings
-
-                         http://o-training.net/         
-
-CZ- Knowledge-Base
-                        Info für Veranstalter, Kartenaufnehmer, Schulungen, Trainings,
-                        Wissenschaftliche Arbeiten über OL
-                        https://metodika.orientacnisporty.cz/materialy 
-
-ISSprOM: Garageneingänge
-
-Falls Sackgasse und zudem gefährlich/nicht benutzbar werden Tiefgarageneinfahrten nicht mit Dreiecken dargestellt.
+- Wichtigste Quelle bleiben die sehr gut geschriebenen [Normen ISSOM und ISSprOM](https://orienteering.sport/iof/mapping/)
+- Davon abgeleitet gibt es ein super [O-Wiki](https://omapwiki.orienteering.sport/#specifications) mit vielen Beispielen
+- [High Level Seminare](https://www.youtube.com/@iofhighleveleventseminar9613/videos) von der IOF. SEHR hilfreich!
+- viele gute [Ideen](http://o-training.net/) für Trainings
+- CZ-Knowledge-Base: [Info für Veranstalter, Kartenaufnehmer, Schulungen, Trainings, Wissenschaftliche Arbeiten über OL](https://metodika.orientacnisporty.cz/materialy)
+- ISSprOM: Garageneingänge
+  Falls Sackgasse und zudem gefährlich/nicht benutzbar werden Tiefgarageneinfahrten nicht mit Dreiecken dargestellt.
 
          
 
 ### Bahnlegung/Trainingsideen:
-Kinder/Anfänger
+#### Kinder/Anfänger
 
-Colourcoded courses
-
+<ins>Colourcoded courses</ins>
 Kleinere Trainings - wenige Bahnen → farbkodierte Bahnen
 Da kann sich jeder Läufer unabhängig der Altersklasse nach seinen Leistungen einschätzen und melden
 
-Hallen-OL
+<ins>Hallen-OL</ins>
 Für die Kleinsten. Mit Kegeln etc. (ähnlich Ski-OL), Sport-Ident und Karten-Memos einbinden ggf. Nacht-Hallen-OL
 
-Kinder & OL
+<ins>Kinder & OL</ins>
 
 Gerade Anfänger sollten auf hochwertigen und aktuellen Karten (zumindest Kartenteilen) laufen!
 
-Fähnchen Bahn
+<ins>Fähnchen Bahn</ins>
 Fähnchen im Wald, damit Kids wissen, dass sie richtig sind. Ausgeflaggte Strecke ist auch in der Karte vermerkt. Dies ist aber nicht die schnellste Idealroute - die können die fortgeschrittenen Kids eben finden und so profitieren (Abkürzung - Motivation)
 
-Kinder-OL mit Begleitung
+<ins>Kinder-OL mit Begleitung</ins>
 
 z.B. von Eltern
 
@@ -95,14 +70,13 @@ Die H12-Gang tauscht sich da rege aus. Muss man sich nur daneben stellen und zuh
 
 Ganz großer Unmut entsteht, wenn Querlaufen im Gestrüpp endet und das nicht an der Fehlinterpretation der Karte, sondern an der Karte selbst lag. Oder wenn Schneisen voll Totholz als Leitlinie gewählt wurden. Es scheint wichtig zu sein, wirklich gut belaufbare Bereiche (auch für Abkürzungen) auszuwählen.
 
-Exkursion nach Schweden:
+<ins>Exkursion nach Schweden:</ins>
 https://www.orientering.se/forening/arrangor/banlaggning/ 
 
-Exkursion in die Schweiz:
-
+<ins>Exkursion in die Schweiz:</ins>
 https://www.swiss-orienteering.ch/files/broschueren/Cool_book_ages6-15_SwissGerman_low.pdf 
 
-Fortgeschrittene Läufer
+#### Fortgeschrittene Läufer
 
 Warm-UP (Standard, gib dem Läufer eine Chance)
 Korridor (Streifenbreite, Windungen, Länge, Tageszeit) prospektives Kartenlesen,
@@ -123,7 +97,7 @@ Postenbeschreibung vs. Kartensignaturen:
 https://www.maprunner.co.uk/cd/      Fetziges Spiel für schnelles lernen!
 
 ## SOFTWARE
-Werkzeuge
+### Werkzeuge
 
 Kartographie-SW
 
@@ -158,7 +132,7 @@ Start Checker                         Tool um SI-Batches am Start zu prüfen (ja
 IOF-SW Liste                        https://orienteering.sport/iof/it/list-of-software-for-orienteering/ 
 
  
-2.1 OCAD-Tipps
+### OCAD-Tipps
 Lizenzen
 
 Ocad kostet (faires) Geld, dafür bekommt man regelmäßig hilfreiche Updates und Support
@@ -295,7 +269,7 @@ Aber Condes kann, glaube ich, nicht automatisch jeweils 2 Bahnvarianten auswähl
 Tomis Anleitung (OCAD): https://docs.google.com/presentation/d/0B22TxbJ8gpcTU2dhOWpuY1h2bXc/edit?usp=drivesdk&ouid=109210799785869292222&resourcekey=0-k_hNiYCD77yhIwbOkZhpXw&rtpof=true&sd=true
 
 Bahnideen und Theorien gibt es viele. Hier mal Thierry’s N (sein jährlicher Nacht-OL PreSeason Test). Ist komplexer als es auf den ersten Blick aussieht (zum Laufen).
-2.2. OOM-Tipps
+### OOM-Tipps
 
 … Open Orienteering Mapper
 
@@ -321,7 +295,7 @@ MAC-Nutzung
 
 OOM ist eines der wenigen Pakete, welches ohne virtuelles Windows direkt auf dem MAC funktioniert. Ggf. muss die Instalation aktiv Bestätigt werden (via “?” → yes, install)
 
-3. BASISDATEN
+## BASISDATEN
 Allgemeines
 
 Je nach Bundesland unterscheiden sich die Wege, wie man an (digitale) Kartengrundlagen herankommt, die über Messtischblätter hinausreichen. Hier können solche Quellen gesammelt werden.
@@ -396,7 +370,7 @@ Lidar Case Study( Jeff Teutsch, USA):
 Using simple ground reclassification to see features in data
 
 https://drive.google.com/file/d/1YjSeqj6JJrq9xWDfGOulqWQ5YtICFA74/view?fbclid=IwAR3quZ0p0Dym7sYExgdQVdfP_td2WpgANg4DNN2eAuDx8paEnFXPee-VxW8_aem_AV9f3kxcpsFmZNYcFbnDSsZK0zDDxGFctm58qRjMYbTYqYjTqJ3aenS2k-er2XLAE1c 
-4. DRUCK
+## DRUCK
 Praxisstipp   
 
 Druckerei “Zaket” in Prag + Pretex.
@@ -490,7 +464,7 @@ Ich weiß auch, dass in MeOS (wird auch in D häufig verwendet) eine Messung int
 
 Falls die mit "CHECK" die SIAC Battery Test Station meinst, die arbeitet überall gleich. Die Beschreibung ist hier: https://docs.sportident.com/user-guide/en/airplus_system.html#_siac_battery_test
 
-6. FÖRDERUNG
+## FÖRDERUNG
 
 Jede Karte, jeder Wettkampf, jeder Trainingsbetrieb erfordert sehr viel Arbeit.
 Arbeit kostet Zeit. Zeit, die nicht immer nur kostenfrei von Ehrenfrau und Ehrenmann übernommen werden kann (wenn das Ergebnis gut werden soll).
@@ -550,7 +524,7 @@ https://www.sportmarketing-sponsoring.biz/blog/spenden/spenden-verein-unternehme
 Sehr ausführlich und gut geschrieben (konkret für Bayern):
 
 https://www.naturfreunde-bayern.de/system/files/documents/document.pdf 
-7. BEISPIELE
+## BEISPIELE
 
     Umgebung von zu Hause:
     Schulhof
@@ -564,7 +538,7 @@ https://www.naturfreunde-bayern.de/system/files/documents/document.pdf
 
         2023.11. Pepa Neumann, DD-Haarweidenstausee
         https://www.livelox.com/Events/Show/117692/1-Dresdener-WinterOL-2023 
-8. INPUT & AUFGABEN
+## INPUT & AUFGABEN
 2024-01 Bahnlegerwettbewerb
 
 Wettbewerb in der Jahreskarte. Zeichne deine eigene Karte und Bahn!
