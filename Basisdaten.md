@@ -1,11 +1,26 @@
 # BASISDATEN
 Je nach Bundesland unterscheiden sich die Wege, wie man an (digitale) Kartengrundlagen herankommt. Freie Geodaten gibt es in folgenden Bundesländern:
-- Bayern
-- Brandenburg
-- Hamburg
-- Hessen
-- Sachsen
 ## Bundesländer
+| Bundesland               | Portal-Link | LAS | DOP |
+|--------------------------|-------------|-----|-----|
+| Baden-Württemberg        | x | x |
+| Bayern                   | [Portal](https://geodaten.bayern.de/opengeodata/) | [✓](https://geodaten.bayern.de/opengeodata/OpenDataDetail.html?pn=laserdaten) |
+| Berlin                   | x | [✓](https://gdi.berlin.de/geonetwork/srv/ger/catalog.search#/metadata/f4a8997d-4dea-382f-aa3a-d452f4bf3943) |
+| Brandenburg              | [Portal](https://geoportal.brandenburg.de) | [✓](https://geobroker.geobasis-bb.de/gbss.php?MODE=GetProductInformation&PRODUCTID=d9895ec2-7039-4c0d-914c-a68f227a7069) |
+| Bremen                   | x | x |
+| Hamburg                  | [Portal](https://geoportal-hamburg.de/geo-online/) | x |
+| Hessen                   | [Portal](https://gds.hessen.de/INTERSHOP/web/WFS/HLBG-Geodaten-Site/de_DE/-/EUR/ViewDownloadcenter-Start;pgid=NIZSrncl7gBSRpNPt1AR16YC0000KzS0h89o) | x |
+| Mecklenburg-Vorpommern   | x | x |
+| Niedersachsen            | x | x |
+| Nordrhein-Westfalen      | x | x |
+| Rheinland-Pfalz          | x | x |
+| Saarland                 | x | x |
+| Sachsen                  | [Portal](https://www.geodaten.sachsen.de/) | ✓ |
+| Sachsen-Anhalt           | x | x |
+| Schleswig-Holstein       | x | x |
+| Thüringen                | x | x |
+
+
 ### Bayern
         https://geodaten.bayern.de/opengeodata/
 #### Verfügbare Dateien
