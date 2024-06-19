@@ -1,48 +1,50 @@
-## BASISDATEN
-Allgemeines
-
-Je nach Bundesland unterscheiden sich die Wege, wie man an (digitale) Kartengrundlagen herankommt, die über Messtischblätter hinausreichen. Hier können solche Quellen gesammelt werden.
-
-Brandenburg (freie Geodaten):
-
-https://geoportal.brandenburg.de 
-
-Hessen (freie Geodaten): https://gds.hessen.de/INTERSHOP/web/WFS/HLBG-Geodaten-Site/de_DE/-/EUR/ViewDownloadcenter-Start;pgid=NIZSrncl7gBSRpNPt1AR16YC0000KzS0h89o
-        Nicht einfach durchzublicken, Rohdaten nach Landkreisen in unbeschrifteten
-        Planquadraten verfügbar; es dauert etwas, bis man das richtige Areal gefunden hat.
-
-Sachsen (freie Geodaten):
-https://www.geodaten.sachsen.de/         
-        Top Angebot. Nicht immer einfach durchzublicken. Recherche lohnt sich.
-        Topaktuelle Roh-Digit. Orthophotos (2022), deutlich besser als die alten DOP.
-        DGM, DOM, LAS-Daten,...
-
-Bayern: (freie GeoDaten)
-(von Veikko Baath, 25.01.2024)
-
-https://geoportal.bayern.de/geoportalbayern/ 
-        Daten sind frei downloadbar https://geodaten.bayern.de/opengeodata/ 
-        DGM, DOM, DOP, LAS Daten
-        LAS einfach per URL für 1km²-Kachel downloaden:
-        z. Bsp. https://geodaten.bayern.de/odd_data/laser/682_5382.laz (235258 kB)
-        wobei 682 und 5382 die UTM Koordinaten der südwestlichen Kachelecke sind
-        am Besten im BayernAtlas (fka BayernViewer) (https://geoportal.bayern.de/bayernatlas/?bgLayer=tk&E=682000&N=5382000)
+# BASISDATEN
+Je nach Bundesland unterscheiden sich die Wege, wie man an (digitale) Kartengrundlagen herankommt. Freie Geodaten gibt es in folgenden Bundesländern:
+- Bayern
+- Brandenburg
+- Hamburg
+- Hessen
+- Sachsen
+## Bundesländer
+### Bayern
+        https://geodaten.bayern.de/opengeodata/
+#### Verfügbare Dateien
+ - DGM
+ - DOM
+ - DOP
+ - LAS Daten
+#### Tipps
+LAS einfach per URL für 1km²-Kachel downloaden:
+z. Bsp. https://geodaten.bayern.de/odd_data/laser/682_5382.laz (235258 kB)
+wobei 682 und 5382 die UTM Koordinaten der südwestlichen Kachelecke sind
+am Besten im BayernAtlas (fka BayernViewer) (https://geoportal.bayern.de/bayernatlas/?bgLayer=tk&E=682000&N=5382000)
 auf UTM umstellen
-        
 
-Hamburg: (freie Geodaten)
+### Brandenburg
+        https://geoportal.brandenburg.de
 
-https://geoportal-hamburg.de/geo-online/
+### Hamburg: (freie Geodaten)
+
+        https://geoportal-hamburg.de/geo-online/
 
 Frei erhältlich:
+- DGM (leider kein DOP)
+- Digitale Orthophotos (DOP20) in CIR und RGB, belaubt und unbelaubt
+- ALKIS
+- DK5
 
-    DGM (leider kein DOP)
-    Digitale Orthophotos (DOP20) in CIR und RGB, belaubt und unbelaubt
-    ALKIS
-    DK5
-    …
+### Hessen (freie Geodaten): 
+        https://gds.hessen.de/INTERSHOP/web/WFS/HLBG-Geodaten-Site/de_DE/-/EUR/ViewDownloadcenter-Start;pgid=NIZSrncl7gBSRpNPt1AR16YC0000KzS0h89o
+Nicht einfach durchzublicken, Rohdaten nach Landkreisen in unbeschrifteten
+Planquadraten verfügbar; es dauert etwas, bis man das richtige Areal gefunden hat.
 
-Bisschen undurchsichtiges Angebot, man findet aber irgendwann was man sucht (und auf dem Weg dahin noch einiges anderes)
+### Sachsen
+        https://www.geodaten.sachsen.de/         
+Top Angebot. Nicht immer einfach durchzublicken. Recherche lohnt sich.
+Topaktuelle Roh-Digit. Orthophotos (2022), deutlich besser als die alten DOP.
+DGM, DOM, LAS-Daten,...
+
+
 Sächsische LIDAR-Daten:
 (von Franz G.)
 
